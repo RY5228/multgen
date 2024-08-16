@@ -39,3 +39,5 @@
 *.cert*
 *.fasl
 *.port
+
+multgen
